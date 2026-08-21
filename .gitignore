@@ -433,3 +433,6 @@ dist/
 
 # musica (copyright - fica so no computador, nao sobe pro GitHub)
 /public/audio/
+
+# login do gh so deste projeto (NUNCA subir - tem o token da conta)
+.gh-madutiam/

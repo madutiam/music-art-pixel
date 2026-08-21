@@ -427,3 +427,9 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# build
+dist/
+
+# musica (copyright - fica so no computador, nao sobe pro GitHub)
+/public/audio/
